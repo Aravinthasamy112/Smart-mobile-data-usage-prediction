@@ -1,0 +1,501 @@
+User_ID,Age,Occupation,Plan_GB,Plan_Price,Network_Type
+U0001,20.0,Self-Employed,10.0,799,4G
+U0002,54.0,Homemaker,5.0,499,4G
+U0003,36.0,Working Professional,3.0,349,5G
+U0004,21.0,Student,10.0,799,5G
+U0005,18.0,Student,10.0,799,4G
+U0006,58.0,Self-Employed,3.0,349,5G
+U0007,20.0,Homemaker,10.0,799,4G
+U0008,18.0,Student,10.0,799,5G
+U0009,19.0,Student,10.0,799,4G
+U0010,53.0,Working Professional,3.0,349,4G
+U0011,21.0,Student,5.0,499,5G
+U0012,64.0,Homemaker,2.0,249,4G
+U0013,26.0,Working Professional,3.0,349,4G
+U0014,18.0,Student,10.0,799,4G
+U0015,73.0,Retired,5.0,499,4G
+U0016,25.0,Student,10.0,799,5G
+U0017,20.0,Student,10.0,799,5G
+U0018,24.0,Student,10.0,799,5G
+U0019,22.0,Student,10.0,799,4G
+U0020,19.0,Student,10.0,799,5G
+U0021,18.0,Student,10.0,799,4G
+U0022,23.0,Student,10.0,799,4G
+U0023,19.0,Student,10.0,799,4G
+U0024,47.0,Working Professional,5.0,499,5G
+U0025,55.0,Self-Employed,3.0,349,5G
+U0026,51.0,Working Professional,10.0,799,5G
+U0027,44.0,Working Professional,10.0,799,5G
+U0028,35.0,Working Professional,10.0,799,5G
+U0029,43.0,Homemaker,5.0,499,4G
+U0030,38.0,Homemaker,10.0,799,4G
+U0031,18.0,Student,10.0,799,4G
+U0032,25.0,Student,10.0,799,4G
+U0033,20.0,Student,10.0,799,4G
+U0034,16.0,Student,10.0,799,5G
+U0035,28.0,Working Professional,10.0,799,5G
+U0036,44.0,Working Professional,10.0,799,5G
+U0037,20.0,Student,10.0,799,4G
+U0038,38.0,Working Professional,10.0,799,5G
+U0039,27.0,Working Professional,3.0,349,4G
+U0040,20.0,Student,10.0,799,4G
+U0041,24.0,Homemaker,5.0,499,4G
+U0042,24.0,Student,3.0,349,4G
+U0043,61.0,Retired,5.0,499,5G
+U0044,23.0,Student,10.0,799,4G
+U0045,19.0,Homemaker,10.0,799,4G
+U0046,64.0,Homemaker,10.0,799,4G
+U0047,58.0,Retired,10.0,799,4G
+U0048,60.0,Homemaker,10.0,799,4G
+U0049,49.0,Self-Employed,10.0,799,4G
+U0050,34.0,Working Professional,10.0,799,5G
+U0051,53.0,Self-Employed,10.0,799,5G
+U0052,17.0,Student,10.0,799,5G
+U0053,53.0,Working Professional,10.0,799,5G
+U0054,31.0,Working Professional,10.0,799,4G
+U0055,40.0,Homemaker,3.0,349,5G
+U0056,28.0,Working Professional,10.0,799,4G
+U0057,44.0,Working Professional,10.0,799,4G
+U0058,29.0,Working Professional,10.0,799,4G
+U0059,17.0,Student,10.0,799,5G
+U0060,22.0,Student,5.0,499,5G
+U0061,52.0,Working Professional,10.0,799,5G
+U0062,50.0,Working Professional,10.0,799,5G
+U0063,16.0,Student,10.0,799,4G
+U0064,54.0,Working Professional,10.0,799,5G
+U0065,52.0,Working Professional,10.0,799,4G
+U0066,30.0,Working Professional,10.0,799,5G
+U0067,29.0,Working Professional,10.0,799,4G
+U0068,34.0,Self-Employed,5.0,499,5G
+U0069,19.0,Student,10.0,799,4G
+U0070,58.0,Retired,10.0,799,4G
+U0071,55.0,Homemaker,10.0,799,4G
+U0072,33.0,Working Professional,10.0,799,4G
+U0073,38.0,Working Professional,10.0,799,4G
+U0074,51.0,Working Professional,10.0,799,5G
+U0075,50.0,Homemaker,3.0,349,4G
+U0076,39.0,Self-Employed,10.0,799,5G
+U0077,32.0,Homemaker,5.0,499,4G
+U0078,46.0,Working Professional,10.0,799,5G
+U0079,43.0,Working Professional,10.0,799,5G
+U0080,17.0,Student,2.0,249,5G
+U0081,63.0,Self-Employed,3.0,349,4G
+U0082,16.0,Student,10.0,799,5G
+U0083,24.0,Self-Employed,5.0,499,5G
+U0084,57.0,Homemaker,10.0,799,4G
+U0085,25.0,Student,5.0,499,4G
+U0086,51.0,Working Professional,5.0,499,5G
+U0087,16.0,Student,10.0,799,5G
+U0088,31.0,Self-Employed,3.0,349,4G
+U0089,16.0,Student,10.0,799,4G
+U0090,68.0,Retired,5.0,499,5G
+U0091,25.0,Student,10.0,799,5G
+U0092,60.0,Retired,3.0,349,5G
+U0093,58.0,Homemaker,10.0,799,4G
+U0094,43.0,Working Professional,10.0,799,5G
+U0095,60.0,Self-Employed,5.0,499,4G
+U0096,30.0,Self-Employed,10.0,799,5G
+U0097,62.0,Retired,5.0,499,4G
+U0098,17.0,Student,5.0,499,5G
+U0099,35.0,Working Professional,10.0,799,4G
+U0100,24.0,Student,10.0,799,5G
+U0101,36.0,Working Professional,3.0,349,5G
+U0102,16.0,Student,10.0,799,5G
+U0103,39.0,Working Professional,10.0,799,5G
+U0104,25.0,Working Professional,3.0,349,4G
+U0105,46.0,Working Professional,10.0,799,5G
+U0106,43.0,Working Professional,10.0,799,4G
+U0107,55.0,Self-Employed,10.0,799,4G
+U0108,49.0,Self-Employed,10.0,799,4G
+U0109,46.0,Working Professional,10.0,799,4G
+U0110,40.0,Working Professional,10.0,799,4G
+U0111,73.0,Retired,10.0,799,4G
+U0112,17.0,Student,10.0,799,5G
+U0113,17.0,Student,10.0,799,5G
+U0114,23.0,Student,10.0,799,4G
+U0115,41.0,Self-Employed,10.0,799,4G
+U0116,48.0,Working Professional,10.0,799,4G
+U0117,17.0,Self-Employed,10.0,799,5G
+U0118,22.0,Self-Employed,10.0,799,5G
+U0119,53.0,Working Professional,10.0,799,4G
+U0120,21.0,Homemaker,10.0,799,4G
+U0121,37.0,Self-Employed,5.0,499,4G
+U0122,22.0,Student,10.0,799,4G
+U0123,41.0,Working Professional,10.0,799,4G
+U0124,37.0,Working Professional,10.0,799,4G
+U0125,20.0,Student,10.0,799,5G
+U0126,18.0,Student,10.0,799,5G
+U0127,73.0,Retired,5.0,499,4G
+U0128,26.0,Working Professional,10.0,799,5G
+U0129,47.0,Working Professional,10.0,799,5G
+U0130,47.0,Self-Employed,10.0,799,5G
+U0131,51.0,Working Professional,10.0,799,5G
+U0132,73.0,Retired,10.0,799,4G
+U0133,20.0,Self-Employed,10.0,799,4G
+U0134,45.0,Working Professional,10.0,799,4G
+U0135,50.0,Working Professional,10.0,799,5G
+U0136,62.0,Retired,3.0,349,4G
+U0137,46.0,Self-Employed,5.0,499,4G
+U0138,69.0,Retired,5.0,499,4G
+U0139,16.0,Student,10.0,799,4G
+U0140,37.0,Homemaker,10.0,799,5G
+U0141,50.0,Working Professional,10.0,799,5G
+U0142,21.0,Student,10.0,799,4G
+U0143,48.0,Working Professional,10.0,799,5G
+U0144,36.0,Self-Employed,3.0,349,5G
+U0145,18.0,Student,10.0,799,4G
+U0146,39.0,Working Professional,10.0,799,5G
+U0147,17.0,Homemaker,5.0,499,4G
+U0148,21.0,Student,10.0,799,5G
+U0149,26.0,Working Professional,10.0,799,4G
+U0150,23.0,Working Professional,10.0,799,4G
+U0151,29.0,Working Professional,10.0,799,5G
+U0152,30.0,Homemaker,10.0,799,5G
+U0153,61.0,Self-Employed,10.0,799,5G
+U0154,22.0,Student,10.0,799,5G
+U0155,68.0,Retired,10.0,799,5G
+U0156,49.0,Homemaker,5.0,499,5G
+U0157,24.0,Student,10.0,799,5G
+U0158,43.0,Homemaker,5.0,499,4G
+U0159,20.0,Student,10.0,799,5G
+U0160,61.0,Retired,3.0,349,4G
+U0161,65.0,Self-Employed,3.0,349,4G
+U0162,49.0,Self-Employed,10.0,799,4G
+U0163,16.0,Student,10.0,799,4G
+U0164,36.0,Homemaker,10.0,799,4G
+U0165,18.0,Student,10.0,799,4G
+U0166,24.0,Student,10.0,799,4G
+U0167,21.0,Student,10.0,799,5G
+U0168,24.0,Self-Employed,10.0,799,5G
+U0169,22.0,Student,10.0,799,4G
+U0170,17.0,Homemaker,10.0,799,4G
+U0171,21.0,Self-Employed,5.0,499,4G
+U0172,20.0,Student,10.0,799,5G
+U0173,17.0,Student,10.0,799,5G
+U0174,24.0,Student,10.0,799,4G
+U0175,36.0,Working Professional,10.0,799,5G
+U0176,39.0,Homemaker,10.0,799,4G
+U0177,23.0,Student,10.0,799,4G
+U0178,24.0,Homemaker,10.0,799,5G
+U0179,25.0,Student,10.0,799,4G
+U0180,41.0,Homemaker,5.0,499,4G
+U0181,67.0,Retired,10.0,799,4G
+U0182,23.0,Self-Employed,10.0,799,4G
+U0183,40.0,Self-Employed,10.0,799,5G
+U0184,50.0,Homemaker,10.0,799,5G
+U0185,24.0,Student,10.0,799,4G
+U0186,18.0,Student,5.0,499,4G
+U0187,18.0,Student,10.0,799,5G
+U0188,46.0,Working Professional,10.0,799,4G
+U0189,27.0,Self-Employed,3.0,349,5G
+U0190,37.0,Working Professional,10.0,799,5G
+U0191,50.0,Homemaker,10.0,799,4G
+U0192,18.0,Student,10.0,799,5G
+U0193,46.0,Self-Employed,5.0,499,4G
+U0194,25.0,Student,10.0,799,4G
+U0195,21.0,Student,10.0,799,5G
+U0196,20.0,Self-Employed,10.0,799,4G
+U0197,67.0,Retired,5.0,499,4G
+U0198,23.0,Working Professional,5.0,499,5G
+U0199,20.0,Student,10.0,799,5G
+U0200,29.0,Working Professional,10.0,799,5G
+U0201,25.0,Student,10.0,799,5G
+U0202,61.0,Homemaker,10.0,799,4G
+U0203,40.0,Self-Employed,10.0,799,5G
+U0204,22.0,Student,10.0,799,5G
+U0205,25.0,Student,10.0,799,4G
+U0206,25.0,Student,10.0,799,5G
+U0207,65.0,Retired,10.0,799,4G
+U0208,54.0,Working Professional,10.0,799,4G
+U0209,29.0,Self-Employed,10.0,799,4G
+U0210,54.0,Working Professional,10.0,799,4G
+U0211,35.0,Working Professional,3.0,349,5G
+U0212,16.0,Student,10.0,799,5G
+U0213,71.0,Retired,5.0,499,5G
+U0214,48.0,Working Professional,3.0,349,4G
+U0215,46.0,Working Professional,10.0,799,4G
+U0216,29.0,Self-Employed,10.0,799,5G
+U0217,52.0,Working Professional,10.0,799,5G
+U0218,70.0,Retired,10.0,799,4G
+U0219,19.0,Student,10.0,799,5G
+U0220,51.0,Working Professional,5.0,499,4G
+U0221,43.0,Working Professional,10.0,799,5G
+U0222,35.0,Working Professional,10.0,799,4G
+U0223,23.0,Student,3.0,349,4G
+U0224,24.0,Student,10.0,799,5G
+U0225,17.0,Student,5.0,499,4G
+U0226,43.0,Working Professional,10.0,799,4G
+U0227,33.0,Working Professional,10.0,799,4G
+U0228,34.0,Working Professional,10.0,799,4G
+U0229,42.0,Working Professional,3.0,349,5G
+U0230,41.0,Working Professional,3.0,349,4G
+U0231,41.0,Working Professional,10.0,799,5G
+U0232,19.0,Student,10.0,799,5G
+U0233,35.0,Working Professional,10.0,799,4G
+U0234,36.0,Working Professional,10.0,799,4G
+U0235,21.0,Student,10.0,799,5G
+U0236,23.0,Working Professional,10.0,799,5G
+U0237,42.0,Working Professional,10.0,799,5G
+U0238,23.0,Student,1.5,199,5G
+U0239,41.0,Working Professional,10.0,799,4G
+U0240,52.0,Working Professional,10.0,799,4G
+U0241,23.0,Self-Employed,10.0,799,5G
+U0242,39.0,Working Professional,10.0,799,4G
+U0243,20.0,Self-Employed,3.0,349,5G
+U0244,37.0,Working Professional,10.0,799,5G
+U0245,47.0,Self-Employed,10.0,799,5G
+U0246,25.0,Working Professional,10.0,799,5G
+U0247,29.0,Working Professional,10.0,799,4G
+U0248,33.0,Working Professional,10.0,799,4G
+U0249,35.0,Working Professional,10.0,799,4G
+U0250,34.0,Working Professional,10.0,799,5G
+U0251,24.0,Self-Employed,10.0,799,4G
+U0252,40.0,Homemaker,10.0,799,4G
+U0253,67.0,Retired,5.0,499,4G
+U0254,35.0,Working Professional,5.0,499,4G
+U0255,47.0,Working Professional,10.0,799,5G
+U0256,23.0,Self-Employed,10.0,799,4G
+U0257,27.0,Working Professional,10.0,799,5G
+U0258,21.0,Homemaker,10.0,799,4G
+U0259,33.0,Working Professional,10.0,799,5G
+U0260,17.0,Student,10.0,799,4G
+U0261,22.0,Student,10.0,799,4G
+U0262,24.0,Homemaker,2.0,249,5G
+U0263,18.0,Student,10.0,799,5G
+U0264,18.0,Student,10.0,799,5G
+U0265,28.0,Working Professional,10.0,799,4G
+U0266,21.0,Student,10.0,799,4G
+U0267,32.0,Working Professional,10.0,799,5G
+U0268,33.0,Self-Employed,10.0,799,4G
+U0269,20.0,Student,10.0,799,5G
+U0270,45.0,Homemaker,10.0,799,4G
+U0271,30.0,Homemaker,10.0,799,4G
+U0272,44.0,Working Professional,10.0,799,5G
+U0273,22.0,Student,10.0,799,5G
+U0274,24.0,Working Professional,10.0,799,4G
+U0275,19.0,Student,10.0,799,4G
+U0276,33.0,Working Professional,5.0,499,5G
+U0277,71.0,Retired,2.0,249,4G
+U0278,71.0,Retired,10.0,799,4G
+U0279,19.0,Self-Employed,5.0,499,4G
+U0280,23.0,Working Professional,10.0,799,5G
+U0281,29.0,Self-Employed,10.0,799,5G
+U0282,40.0,Self-Employed,10.0,799,4G
+U0283,53.0,Working Professional,10.0,799,4G
+U0284,46.0,Working Professional,10.0,799,4G
+U0285,24.0,Student,10.0,799,5G
+U0286,16.0,Student,10.0,799,4G
+U0287,30.0,Working Professional,10.0,799,5G
+U0288,24.0,Student,10.0,799,5G
+U0289,16.0,Student,10.0,799,4G
+U0290,39.0,Homemaker,10.0,799,4G
+U0291,68.0,Retired,10.0,799,4G
+U0292,29.0,Working Professional,10.0,799,5G
+U0293,63.0,Homemaker,10.0,799,4G
+U0294,62.0,Retired,5.0,499,4G
+U0295,23.0,Student,3.0,349,5G
+U0296,26.0,Working Professional,10.0,799,5G
+U0297,38.0,Working Professional,10.0,799,5G
+U0298,19.0,Student,3.0,349,5G
+U0299,30.0,Self-Employed,10.0,799,4G
+U0300,47.0,Working Professional,10.0,799,4G
+U0301,41.0,Working Professional,5.0,499,5G
+U0302,19.0,Student,10.0,799,4G
+U0303,16.0,Student,5.0,499,5G
+U0304,60.0,Homemaker,10.0,799,4G
+U0305,23.0,Student,10.0,799,4G
+U0306,17.0,Student,5.0,499,4G
+U0307,22.0,Student,10.0,799,4G
+U0308,51.0,Working Professional,10.0,799,4G
+U0309,34.0,Working Professional,10.0,799,4G
+U0310,31.0,Working Professional,5.0,499,5G
+U0311,23.0,Student,5.0,499,4G
+U0312,24.0,Student,5.0,499,4G
+U0313,21.0,Homemaker,10.0,799,4G
+U0314,38.0,Working Professional,10.0,799,4G
+U0315,29.0,Working Professional,10.0,799,4G
+U0316,48.0,Self-Employed,10.0,799,4G
+U0317,52.0,Self-Employed,10.0,799,4G
+U0318,23.0,Student,10.0,799,5G
+U0319,54.0,Working Professional,10.0,799,5G
+U0320,28.0,Working Professional,10.0,799,4G
+U0321,38.0,Working Professional,10.0,799,4G
+U0322,21.0,Homemaker,10.0,799,4G
+U0323,39.0,Working Professional,10.0,799,5G
+U0324,61.0,Self-Employed,10.0,799,4G
+U0325,64.0,Homemaker,5.0,499,5G
+U0326,24.0,Working Professional,5.0,499,5G
+U0327,27.0,Homemaker,10.0,799,5G
+U0328,37.0,Working Professional,10.0,799,5G
+U0329,23.0,Homemaker,10.0,799,5G
+U0330,37.0,Working Professional,10.0,799,4G
+U0331,31.0,Working Professional,5.0,499,4G
+U0332,27.0,Working Professional,10.0,799,4G
+U0333,19.0,Student,2.0,249,5G
+U0334,24.0,Working Professional,5.0,499,5G
+U0335,39.0,Homemaker,3.0,349,5G
+U0336,23.0,Working Professional,10.0,799,4G
+U0337,23.0,Student,2.0,249,5G
+U0338,38.0,Working Professional,10.0,799,5G
+U0339,24.0,Student,10.0,799,5G
+U0340,19.0,Student,10.0,799,5G
+U0341,71.0,Retired,10.0,799,4G
+U0342,25.0,Working Professional,10.0,799,4G
+U0343,53.0,Working Professional,10.0,799,5G
+U0344,30.0,Working Professional,10.0,799,4G
+U0345,17.0,Student,10.0,799,4G
+U0346,24.0,Student,10.0,799,4G
+U0347,65.0,Self-Employed,10.0,799,4G
+U0348,43.0,Working Professional,10.0,799,5G
+U0349,70.0,Retired,3.0,349,4G
+U0350,44.0,Working Professional,3.0,349,4G
+U0351,38.0,Working Professional,10.0,799,4G
+U0352,18.0,Self-Employed,10.0,799,4G
+U0353,30.0,Homemaker,10.0,799,4G
+U0354,37.0,Self-Employed,5.0,499,5G
+U0355,75.0,Retired,10.0,799,5G
+U0356,65.0,Self-Employed,10.0,799,4G
+U0357,23.0,Homemaker,10.0,799,4G
+U0358,17.0,Student,10.0,799,5G
+U0359,20.0,Self-Employed,5.0,499,4G
+U0360,51.0,Working Professional,10.0,799,5G
+U0361,26.0,Working Professional,10.0,799,5G
+U0362,60.0,Self-Employed,3.0,349,4G
+U0363,60.0,Retired,3.0,349,4G
+U0364,65.0,Retired,10.0,799,4G
+U0365,21.0,Student,10.0,799,4G
+U0366,41.0,Self-Employed,10.0,799,4G
+U0367,39.0,Self-Employed,10.0,799,4G
+U0368,30.0,Working Professional,10.0,799,5G
+U0369,18.0,Student,10.0,799,4G
+U0370,17.0,Student,10.0,799,4G
+U0371,32.0,Self-Employed,10.0,799,4G
+U0372,31.0,Working Professional,3.0,349,5G
+U0373,74.0,Retired,10.0,799,4G
+U0374,27.0,Working Professional,10.0,799,5G
+U0375,67.0,Retired,5.0,499,5G
+U0376,32.0,Working Professional,5.0,499,5G
+U0377,52.0,Self-Employed,10.0,799,4G
+U0378,23.0,Student,10.0,799,4G
+U0379,33.0,Working Professional,3.0,349,5G
+U0380,29.0,Homemaker,3.0,349,4G
+U0381,74.0,Retired,1.5,199,5G
+U0382,62.0,Homemaker,10.0,799,4G
+U0383,17.0,Student,5.0,499,4G
+U0384,47.0,Working Professional,10.0,799,4G
+U0385,22.0,Student,10.0,799,5G
+U0386,22.0,Student,10.0,799,5G
+U0387,19.0,Self-Employed,10.0,799,4G
+U0388,57.0,Self-Employed,10.0,799,5G
+U0389,60.0,Self-Employed,10.0,799,5G
+U0390,23.0,Homemaker,10.0,799,4G
+U0391,53.0,Self-Employed,10.0,799,4G
+U0392,24.0,Homemaker,10.0,799,4G
+U0393,16.0,Student,10.0,799,5G
+U0394,17.0,Student,10.0,799,4G
+U0395,32.0,Working Professional,10.0,799,5G
+U0396,59.0,Homemaker,10.0,799,4G
+U0397,23.0,Student,10.0,799,5G
+U0398,51.0,Working Professional,10.0,799,4G
+U0399,30.0,Self-Employed,5.0,499,4G
+U0400,21.0,Student,10.0,799,5G
+U0401,47.0,Working Professional,10.0,799,5G
+U0402,54.0,Homemaker,10.0,799,4G
+U0403,32.0,Self-Employed,5.0,499,5G
+U0404,17.0,Student,10.0,799,5G
+U0405,40.0,Homemaker,10.0,799,5G
+U0406,51.0,Working Professional,10.0,799,4G
+U0407,37.0,Homemaker,10.0,799,4G
+U0408,25.0,Student,10.0,799,5G
+U0409,26.0,Working Professional,10.0,799,4G
+U0410,54.0,Working Professional,10.0,799,4G
+U0411,18.0,Student,10.0,799,5G
+U0412,27.0,Homemaker,3.0,349,4G
+U0413,16.0,Student,10.0,799,5G
+U0414,25.0,Student,10.0,799,5G
+U0415,42.0,Working Professional,10.0,799,5G
+U0416,49.0,Self-Employed,10.0,799,4G
+U0417,64.0,Homemaker,10.0,799,4G
+U0418,58.0,Retired,5.0,499,4G
+U0419,16.0,Student,10.0,799,4G
+U0420,54.0,Working Professional,10.0,799,5G
+U0421,21.0,Student,10.0,799,5G
+U0422,34.0,Working Professional,10.0,799,4G
+U0423,58.0,Retired,10.0,799,4G
+U0424,45.0,Self-Employed,10.0,799,5G
+U0425,53.0,Working Professional,10.0,799,4G
+U0426,41.0,Working Professional,10.0,799,5G
+U0427,59.0,Homemaker,2.0,249,4G
+U0428,25.0,Working Professional,10.0,799,5G
+U0429,25.0,Student,5.0,499,4G
+U0430,36.0,Working Professional,10.0,799,5G
+U0431,21.0,Student,10.0,799,4G
+U0432,21.0,Student,10.0,799,5G
+U0433,19.0,Student,10.0,799,4G
+U0434,27.0,Working Professional,10.0,799,5G
+U0435,53.0,Working Professional,10.0,799,5G
+U0436,32.0,Working Professional,10.0,799,4G
+U0437,30.0,Working Professional,5.0,499,4G
+U0438,72.0,Retired,5.0,499,4G
+U0439,20.0,Self-Employed,10.0,799,4G
+U0440,40.0,Working Professional,10.0,799,4G
+U0441,17.0,Student,10.0,799,5G
+U0442,31.0,Homemaker,10.0,799,4G
+U0443,21.0,Student,10.0,799,5G
+U0444,36.0,Working Professional,10.0,799,5G
+U0445,41.0,Homemaker,10.0,799,4G
+U0446,26.0,Working Professional,10.0,799,5G
+U0447,31.0,Self-Employed,10.0,799,5G
+U0448,49.0,Working Professional,5.0,499,5G
+U0449,42.0,Self-Employed,10.0,799,4G
+U0450,24.0,Student,10.0,799,4G
+U0451,16.0,Student,10.0,799,4G
+U0452,50.0,Working Professional,10.0,799,5G
+U0453,24.0,Student,10.0,799,5G
+U0454,17.0,Homemaker,5.0,499,5G
+U0455,20.0,Student,10.0,799,4G
+U0456,46.0,Working Professional,10.0,799,5G
+U0457,23.0,Self-Employed,5.0,499,4G
+U0458,47.0,Self-Employed,10.0,799,5G
+U0459,42.0,Working Professional,10.0,799,4G
+U0460,35.0,Working Professional,10.0,799,5G
+U0461,64.0,Retired,10.0,799,5G
+U0462,23.0,Self-Employed,10.0,799,4G
+U0463,53.0,Homemaker,5.0,499,4G
+U0464,36.0,Homemaker,1.5,199,5G
+U0465,16.0,Self-Employed,3.0,349,4G
+U0466,21.0,Student,10.0,799,5G
+U0467,40.0,Working Professional,10.0,799,5G
+U0468,17.0,Student,5.0,499,5G
+U0469,25.0,Self-Employed,10.0,799,4G
+U0470,67.0,Retired,10.0,799,4G
+U0471,39.0,Working Professional,5.0,499,4G
+U0472,28.0,Working Professional,10.0,799,5G
+U0473,22.0,Student,10.0,799,4G
+U0474,65.0,Retired,5.0,499,4G
+U0475,17.0,Student,10.0,799,4G
+U0476,18.0,Student,10.0,799,5G
+U0477,23.0,Student,3.0,349,4G
+U0478,16.0,Student,10.0,799,5G
+U0479,25.0,Working Professional,10.0,799,5G
+U0480,31.0,Working Professional,5.0,499,5G
+U0481,37.0,Working Professional,5.0,499,5G
+U0482,20.0,Student,10.0,799,5G
+U0483,21.0,Student,10.0,799,5G
+U0484,28.0,Working Professional,5.0,499,4G
+U0485,17.0,Student,5.0,499,5G
+U0486,27.0,Self-Employed,10.0,799,4G
+U0487,18.0,Student,10.0,799,5G
+U0488,26.0,Working Professional,3.0,349,5G
+U0489,50.0,Working Professional,10.0,799,5G
+U0490,34.0,Working Professional,10.0,799,5G
+U0491,19.0,Student,10.0,799,5G
+U0492,22.0,Student,10.0,799,5G
+U0493,53.0,Homemaker,3.0,349,4G
+U0494,25.0,Student,10.0,799,4G
+U0495,41.0,Working Professional,3.0,349,4G
+U0496,39.0,Working Professional,5.0,499,4G
+U0497,46.0,Working Professional,10.0,799,4G
+U0498,46.0,Working Professional,3.0,349,5G
+U0499,62.0,Self-Employed,10.0,799,4G
+U0500,37.0,Homemaker,10.0,799,5G
