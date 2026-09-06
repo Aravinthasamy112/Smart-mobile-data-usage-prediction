@@ -2,7 +2,7 @@
 
 > **Predict Usage. Identify Risk. Recommend Smarter.**
 
-A Python and Power BI based data analytics and machine learning project that analyzes historical mobile data consumption, predicts future usage, identifies plan exhaustion risk, and provides data-driven recommendations for mobile data management.
+A Python and Power BI based Data Analytics and Machine Learning project that analyzes historical mobile data consumption, predicts future usage, identifies plan exhaustion risk, and provides data-driven recommendations for mobile data management.
 
 ---
 
@@ -11,6 +11,8 @@ A Python and Power BI based data analytics and machine learning project that ana
 ### Executive Overview
 
 ![Smart Mobile Data Usage Dashboard](screenshots/executive_overview.png)
+
+> Additional dashboard screenshots will be added as the remaining Power BI pages are completed.
 
 ---
 
@@ -64,7 +66,7 @@ The final insights are presented through an interactive **Power BI dashboard** f
 
 ### 🔍 Risk Analysis
 
-Users are classified into:
+Users are classified into three risk categories:
 
 - 🟢 **Low Risk**
 - 🟡 **Medium Risk**
@@ -76,7 +78,7 @@ Risk levels are determined based on predicted usage relative to the user's avail
 
 The project evaluates a scenario where streaming consumption is reduced by **20%**.
 
-This helps identify how reducing streaming usage can affect:
+This helps identify the potential impact on:
 
 - Monthly data consumption
 - Plan exhaustion risk
@@ -88,16 +90,16 @@ This helps identify how reducing streaming usage can affect:
 
 Two regression models were evaluated:
 
-| Model | MAE (MB) | RMSE (MB) | R² |
-|------|----------:|----------:|---:|
+| Model | MAE (MB) | RMSE (MB) | R² Score |
+|---|---:|---:|---:|
 | Linear Regression | 104.0 | 139.2 | 0.467 |
-| Random Forest Regressor | Compared | Compared | Compared |
+| Random Forest Regressor | Evaluated | Evaluated | Evaluated |
 
 ### 🏆 Selected Model
 
-**Linear Regression**
+**Linear Regression** was selected as the best-performing model based on the evaluation results.
 
-The model achieved:
+Performance:
 
 - **MAE:** 104.0 MB
 - **RMSE:** 139.2 MB
@@ -109,7 +111,7 @@ A chronological train-test split was used to avoid future-data leakage.
 
 ## 🔐 Data Leakage Prevention
 
-To ensure realistic prediction:
+To ensure realistic prediction results:
 
 - Next-day target is created using future-day shifting
 - Historical features use previous-day data
@@ -138,13 +140,13 @@ The analysis produced several important findings:
 Current project results:
 
 | Risk Level | Users |
-|------------|------:|
-| Low | 286 |
-| Medium | 67 |
-| High | 147 |
+|---|---:|
+| 🟢 Low | 286 |
+| 🟡 Medium | 67 |
+| 🔴 High | 147 |
 | **Total** | **500** |
 
-Risk thresholds:
+### Risk Thresholds
 
 - **Low:** ≤ 85% of plan usage
 - **Medium:** > 85% and ≤ 100%
@@ -163,10 +165,10 @@ This demonstrates how behavioral changes can reduce mobile data exhaustion risk.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 | Category | Technology |
-|----------|------------|
+|---|---|
 | Programming Language | Python 3.11 |
 | Data Analysis | Pandas, NumPy |
 | Visualization | Matplotlib |
@@ -183,7 +185,7 @@ This demonstrates how behavioral changes can reduce mobile data exhaustion risk.
 
 ```text
 Smart-mobile-data-usage-prediction/
-
+│
 ├── data/
 │   ├── raw/
 │   ├── cleaned/
@@ -218,25 +220,7 @@ Smart-mobile-data-usage-prediction/
 │   └── mobile_data_analysis.sql
 │
 ├── screenshots/
-│   ├── executive_overview.png
-│   ├── prediction_risk.png
-│   └── whatif_analysis.png
+│   └── executive_overview.png
 │
 ├── .gitignore
 └── README.md
-
----
-
-## 👨‍💻 Developed By
-
-### A.Aravinthasamy B.Tech.(AI & Data Science)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aravinthasamy2006as@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Aravinthasamy112)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aravinthasamyas)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
