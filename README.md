@@ -12,14 +12,6 @@ A Python and Power BI based data analytics and machine learning project that ana
 
 ![Smart Mobile Data Usage Dashboard](screenshots/executive_overview.png)
 
-### Prediction & Risk
-
-![Prediction and Risk Dashboard](screenshots/prediction_risk.png)
-
-### What-If Analysis
-
-![What-If Analysis Dashboard](screenshots/whatif_analysis.png)
-
 ---
 
 ## 📌 Overview
