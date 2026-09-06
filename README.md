@@ -1,4 +1,4 @@
-# Smart Mobile Data Usage Prediction & Plan Recommendation System
+# Smart Mobile Data Usage Prediction
 
 > **Predict Usage. Identify Risk. Recommend Smarter.**
 
