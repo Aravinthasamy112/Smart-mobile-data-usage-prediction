@@ -6,22 +6,6 @@ A Python and Power BI based data analytics and machine learning project that ana
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### Executive Overview
-
-![Smart Mobile Data Usage Dashboard](screenshots/executive_overview.png)
-
-### Prediction & Risk
-
-![Prediction and Risk Dashboard](screenshots/prediction_risk.png)
-
-### What-If Analysis
-
-![What-If Analysis Dashboard](screenshots/whatif_analysis.png)
-
----
-
 ## 📌 Overview
 
 **Smart Mobile Data Usage Prediction & Plan Recommendation System** is an end-to-end Data Analytics and Machine Learning project designed to understand and predict mobile data consumption patterns.
